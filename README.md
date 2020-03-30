@@ -1,5 +1,5 @@
 # MzQServer
-Mazandaran Quarantine
+Mazandaran Quarantine Server
 
 You can use this system to quarantine provinces/states/city to fight against covid 19
 Android Client Respository:
