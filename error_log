@@ -1,0 +1,114 @@
+[23-Apr-2019 04:53:26 Asia/Tehran] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/misanqpu/public_html/school/rest/Core/Student.php.new on line 1023
+[23-Apr-2019 21:11:52 Asia/Tehran] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/misanqpu/public_html/school/rest/Core/Student.php.new on line 915
+[23-Apr-2019 21:12:02 Asia/Tehran] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/misanqpu/public_html/school/rest/Core/Student.php.new on line 915
+[23-Apr-2019 21:12:20 Asia/Tehran] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/misanqpu/public_html/school/rest/Core/Student.php.new on line 915
+[23-Apr-2019 21:13:19 Asia/Tehran] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/misanqpu/public_html/school/rest/Core/Student.php.new on line 915
+[23-Apr-2019 21:14:33 Asia/Tehran] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/misanqpu/public_html/school/rest/Core/Student.php.new on line 915
+[24-Apr-2019 20:40:10 Asia/Tehran] PHP Notice:  Undefined variable: studentID in /home/misanqpu/public_html/school/rest/Core/Student.php on line 137
+[24-Apr-2019 20:40:10 Asia/Tehran] PHP Notice:  Undefined variable: moadelKol in /home/misanqpu/public_html/school/rest/Core/Student.php on line 1080
+[24-Apr-2019 20:40:29 Asia/Tehran] PHP Notice:  Undefined variable: moadelKol in /home/misanqpu/public_html/school/rest/Core/Student.php on line 1080
+[24-Apr-2019 20:49:18 Asia/Tehran] PHP Notice:  Undefined offset: 6 in /home/misanqpu/public_html/school/rest/Core/Student.php on line 1100
+[24-Apr-2019 20:49:18 Asia/Tehran] PHP Notice:  Undefined offset: 16 in /home/misanqpu/public_html/school/rest/Core/Student.php on line 1100
+[24-Apr-2019 20:50:48 Asia/Tehran] PHP Notice:  Undefined offset: 6 in /home/misanqpu/public_html/school/rest/Core/Student.php on line 1100
+[24-Apr-2019 20:50:48 Asia/Tehran] PHP Notice:  Undefined offset: 16 in /home/misanqpu/public_html/school/rest/Core/Student.php on line 1100
+[24-Apr-2019 20:51:15 Asia/Tehran] PHP Notice:  Undefined offset: 6 in /home/misanqpu/public_html/school/rest/Core/Student.php on line 1100
+[24-Apr-2019 20:51:15 Asia/Tehran] PHP Notice:  Undefined offset: 16 in /home/misanqpu/public_html/school/rest/Core/Student.php on line 1100
+[24-Apr-2019 20:51:47 Asia/Tehran] PHP Notice:  Undefined offset: 6 in /home/misanqpu/public_html/school/rest/Core/Student.php on line 1100
+[24-Apr-2019 20:51:47 Asia/Tehran] PHP Notice:  Undefined offset: 6 in /home/misanqpu/public_html/school/rest/Core/Student.php on line 1101
+[24-Apr-2019 20:51:47 Asia/Tehran] PHP Notice:  Undefined offset: 16 in /home/misanqpu/public_html/school/rest/Core/Student.php on line 1100
+[24-Apr-2019 20:51:47 Asia/Tehran] PHP Notice:  Undefined offset: 16 in /home/misanqpu/public_html/school/rest/Core/Student.php on line 1101
+[24-Apr-2019 23:16:12 Asia/Tehran] PHP Notice:  Undefined offset: 6 in /home/misanqpu/public_html/school/rest/Core/Student.php on line 1100
+[24-Apr-2019 23:16:12 Asia/Tehran] PHP Notice:  Undefined offset: 6 in /home/misanqpu/public_html/school/rest/Core/Student.php on line 1101
+[24-Apr-2019 23:16:12 Asia/Tehran] PHP Notice:  Undefined offset: 16 in /home/misanqpu/public_html/school/rest/Core/Student.php on line 1100
+[24-Apr-2019 23:16:12 Asia/Tehran] PHP Notice:  Undefined offset: 16 in /home/misanqpu/public_html/school/rest/Core/Student.php on line 1101
+[24-Apr-2019 23:16:39 Asia/Tehran] PHP Notice:  Undefined offset: 6 in /home/misanqpu/public_html/school/rest/Core/Student.php on line 1100
+[24-Apr-2019 23:16:39 Asia/Tehran] PHP Notice:  Undefined offset: 6 in /home/misanqpu/public_html/school/rest/Core/Student.php on line 1101
+[24-Apr-2019 23:16:39 Asia/Tehran] PHP Notice:  Undefined offset: 16 in /home/misanqpu/public_html/school/rest/Core/Student.php on line 1100
+[24-Apr-2019 23:16:39 Asia/Tehran] PHP Notice:  Undefined offset: 16 in /home/misanqpu/public_html/school/rest/Core/Student.php on line 1101
+[24-Apr-2019 23:49:33 Asia/Tehran] PHP Fatal error:  Cannot redeclare class Rest\Core\Student in /home/misanqpu/public_html/school/rest/Core/Student.php.new on line 1118
+[25-Apr-2019 00:42:25 Asia/Tehran] PHP Notice:  Undefined variable: messaging in /home/misanqpu/public_html/school/rest/Core/Student.php on line 592
+[25-Apr-2019 00:42:25 Asia/Tehran] PHP Fatal error:  Call to a member function GetRecieverImage() on null in /home/misanqpu/public_html/school/rest/Core/Student.php on line 592
+[25-Apr-2019 00:44:35 Asia/Tehran] PHP Notice:  Undefined index: fname in /home/misanqpu/public_html/school/rest/Core/Student.php on line 611
+[25-Apr-2019 00:44:35 Asia/Tehran] PHP Notice:  Undefined index: lname in /home/misanqpu/public_html/school/rest/Core/Student.php on line 611
+[25-Apr-2019 00:44:53 Asia/Tehran] PHP Notice:  Undefined index: fname in /home/misanqpu/public_html/school/rest/Core/Student.php on line 611
+[25-Apr-2019 00:44:53 Asia/Tehran] PHP Notice:  Undefined index: lname in /home/misanqpu/public_html/school/rest/Core/Student.php on line 611
+[25-Apr-2019 00:45:03 Asia/Tehran] PHP Notice:  Undefined index: fname in /home/misanqpu/public_html/school/rest/Core/Student.php on line 611
+[25-Apr-2019 00:45:03 Asia/Tehran] PHP Notice:  Undefined index: lname in /home/misanqpu/public_html/school/rest/Core/Student.php on line 611
+[25-Apr-2019 00:46:10 Asia/Tehran] PHP Notice:  Undefined index: fname in /home/misanqpu/public_html/school/rest/Core/Student.php on line 611
+[25-Apr-2019 00:46:10 Asia/Tehran] PHP Notice:  Undefined index: lname in /home/misanqpu/public_html/school/rest/Core/Student.php on line 611
+[25-Apr-2019 03:37:46 Asia/Tehran] PHP Notice:  Undefined property: stdClass::$userID in /home/misanqpu/public_html/school/rest/Core/FirebaseNotification.php on line 28
+[25-Apr-2019 03:37:46 Asia/Tehran] PHP Notice:  Undefined property: stdClass::$userType in /home/misanqpu/public_html/school/rest/Core/FirebaseNotification.php on line 29
+[25-Apr-2019 04:23:58 Asia/Tehran] PHP Notice:  Undefined variable: userType in /home/misanqpu/public_html/school/rest/Core/FirebaseNotification.php on line 73
+[25-Apr-2019 04:24:10 Asia/Tehran] PHP Notice:  Undefined variable: userType in /home/misanqpu/public_html/school/rest/Core/FirebaseNotification.php on line 73
+[25-Apr-2019 04:46:58 Asia/Tehran] PHP Notice:  Undefined index: id in /home/misanqpu/public_html/school/rest/Core/FirebaseNotification.php on line 301
+[03-May-2019 22:16:05 Asia/Tehran] PHP Fatal error:  Cannot redeclare class Rest\MyPDO in /home/misanqpu/public_html/school/rest/MyPDO.php.new on line 152
+[04-May-2019 00:44:58 Asia/Tehran] PHP Fatal error:  Cannot use object of type PDOException as array in /home/misanqpu/public_html/school/rest/Core/FirebaseNotification.php on line 176
+[04-May-2019 00:45:00 Asia/Tehran] PHP Fatal error:  Cannot use object of type PDOException as array in /home/misanqpu/public_html/school/rest/Core/FirebaseNotification.php on line 176
+[04-May-2019 00:45:05 Asia/Tehran] PHP Fatal error:  Cannot use object of type PDOException as array in /home/misanqpu/public_html/school/rest/Core/FirebaseNotification.php on line 176
+[04-May-2019 00:45:08 Asia/Tehran] PHP Fatal error:  Cannot use object of type PDOException as array in /home/misanqpu/public_html/school/rest/Core/FirebaseNotification.php on line 176
+[04-May-2019 00:45:16 Asia/Tehran] PHP Fatal error:  Cannot use object of type PDOException as array in /home/misanqpu/public_html/school/rest/Core/FirebaseNotification.php on line 176
+[04-May-2019 00:45:37 Asia/Tehran] PHP Fatal error:  Cannot use object of type PDOException as array in /home/misanqpu/public_html/school/rest/Core/FirebaseNotification.php on line 176
+[04-May-2019 00:49:54 Asia/Tehran] PHP Fatal error:  Cannot use object of type PDOException as array in /home/misanqpu/public_html/school/rest/Core/FirebaseNotification.php on line 176
+[04-May-2019 03:16:38 Asia/Tehran] PHP Notice:  Undefined index: name in /home/misanqpu/public_html/school/rest/Core/Student.php on line 346
+[04-May-2019 03:17:35 Asia/Tehran] PHP Notice:  Undefined index: name in /home/misanqpu/public_html/school/rest/Core/Student.php on line 346
+[04-May-2019 03:18:42 Asia/Tehran] PHP Notice:  Undefined index: name in /home/misanqpu/public_html/school/rest/Core/Student.php on line 346
+[04-May-2019 03:19:01 Asia/Tehran] PHP Notice:  Undefined index: name in /home/misanqpu/public_html/school/rest/Core/Student.php on line 347
+[04-May-2019 03:19:06 Asia/Tehran] PHP Notice:  Undefined index: name in /home/misanqpu/public_html/school/rest/Core/Student.php on line 347
+[04-May-2019 03:19:09 Asia/Tehran] PHP Notice:  Undefined index: name in /home/misanqpu/public_html/school/rest/Core/Student.php on line 347
+[04-May-2019 03:25:49 Asia/Tehran] PHP Fatal error:  Cannot redeclare class Rest\Core\Student in /home/misanqpu/public_html/school/rest/Core/Student.php.new on line 1146
+[04-May-2019 03:34:15 Asia/Tehran] PHP Fatal error:  Cannot redeclare class Rest\Core\Login in /home/misanqpu/public_html/school/rest/Core/Login.php.new on line 15
+[04-May-2019 03:34:15 Asia/Tehran] PHP Fatal error:  Cannot redeclare class Rest\Core\Login in /home/misanqpu/public_html/school/rest/Core/Login.php.new on line 15
+[04-May-2019 03:36:01 Asia/Tehran] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/misanqpu/public_html/school/rest/Core/Student.php on line 17
+[04-May-2019 03:39:13 Asia/Tehran] PHP Notice:  Undefined index: name in /home/misanqpu/public_html/school/rest/Core/Student.php on line 350
+[04-May-2019 03:39:47 Asia/Tehran] PHP Notice:  Undefined index: name in /home/misanqpu/public_html/school/rest/Core/Student.php on line 350
+[04-May-2019 03:40:42 Asia/Tehran] PHP Notice:  Undefined index: name in /home/misanqpu/public_html/school/rest/Core/Student.php on line 350
+[04-May-2019 03:43:10 Asia/Tehran] PHP Fatal error:  Cannot redeclare class Rest\School in /home/misanqpu/public_html/school/rest/School.php.new on line 14
+[04-May-2019 03:43:13 Asia/Tehran] PHP Notice:  Undefined index: name in /home/misanqpu/public_html/school/rest/Core/Student.php on line 352
+[04-May-2019 03:51:16 Asia/Tehran] PHP Notice:  Undefined index: name in /home/misanqpu/public_html/school/rest/Core/Student.php on line 352
+[04-May-2019 03:57:48 Asia/Tehran] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/misanqpu/public_html/school/rest/Core/Student.php on line 17
+[05-May-2019 02:30:31 Asia/Tehran] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/misanqpu/public_html/school/rest/Core/Parents.php.new on line 381
+[05-May-2019 02:30:35 Asia/Tehran] PHP Fatal error:  Class 'Rest\Core\Routes' not found in /home/misanqpu/public_html/school/rest/Core/Parents.php on line 34
+[05-May-2019 02:49:42 Asia/Tehran] PHP Warning:  Missing argument 1 for Rest\Core\Parents::GetParentsDashboard(), called in /home/misanqpu/public_html/school/rest/Core/Dashboard.php on line 76 and defined in /home/misanqpu/public_html/school/rest/Core/Parents.php on line 49
+[05-May-2019 02:49:42 Asia/Tehran] PHP Notice:  Undefined variable: json in /home/misanqpu/public_html/school/rest/Core/Parents.php on line 52
+[05-May-2019 02:49:42 Asia/Tehran] PHP Notice:  Undefined variable: json in /home/misanqpu/public_html/school/rest/Core/Parents.php on line 58
+[05-May-2019 02:49:42 Asia/Tehran] PHP Notice:  Undefined variable: json in /home/misanqpu/public_html/school/rest/Core/Parents.php on line 59
+[05-May-2019 02:55:43 Asia/Tehran] PHP Fatal error:  Allowed memory size of 201326592 bytes exhausted (tried to allocate 200540114 bytes) in /home/misanqpu/public_html/school/rest/Core/Parents.php on line 895
+[05-May-2019 02:56:18 Asia/Tehran] PHP Fatal error:  Allowed memory size of 201326592 bytes exhausted (tried to allocate 200540114 bytes) in /home/misanqpu/public_html/school/rest/Core/Parents.php on line 895
+[05-May-2019 02:57:27 Asia/Tehran] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/misanqpu/public_html/school/rest/Core/Parents.php.new on line 379
+[05-May-2019 02:57:53 Asia/Tehran] PHP Fatal error:  Allowed memory size of 201326592 bytes exhausted (tried to allocate 200540114 bytes) in /home/misanqpu/public_html/school/rest/Core/Parents.php on line 896
+[05-May-2019 02:59:37 Asia/Tehran] PHP Notice:  Undefined variable: system in /home/misanqpu/public_html/school/rest/Core/Dashboard.php on line 64
+[05-May-2019 03:54:01 Asia/Tehran] PHP Notice:  Undefined variable: sql in /home/misanqpu/public_html/school/rest/Core/Parents.php on line 902
+[05-May-2019 03:54:12 Asia/Tehran] PHP Parse error:  syntax error, unexpected end of file in /home/misanqpu/public_html/school/rest/Core/Parents.php.new on line 734
+[05-May-2019 03:54:16 Asia/Tehran] PHP Notice:  Undefined variable: sql in /home/misanqpu/public_html/school/rest/Core/Parents.php on line 903
+[05-May-2019 23:17:56 Asia/Tehran] PHP Notice:  Undefined variable: messaging in /home/misanqpu/public_html/school/rest/Core/Parents.php on line 482
+[05-May-2019 23:17:56 Asia/Tehran] PHP Fatal error:  Call to a member function GetSenderImage() on null in /home/misanqpu/public_html/school/rest/Core/Parents.php on line 482
+[05-May-2019 23:31:17 Asia/Tehran] PHP Parse error:  syntax error, unexpected end of file in /home/misanqpu/public_html/school/rest/Core/Parents.php.new on line 98
+[06-May-2019 00:02:07 Asia/Tehran] PHP Notice:  Array to string conversion in /home/misanqpu/public_html/school/rest/Core/FirebaseNotification.php on line 146
+[06-May-2019 00:02:09 Asia/Tehran] PHP Notice:  Array to string conversion in /home/misanqpu/public_html/school/rest/Core/FirebaseNotification.php on line 146
+[06-May-2019 22:46:17 Asia/Tehran] PHP Notice:  Undefined variable: darsID in /home/misanqpu/public_html/school/rest/Model/Teacher.php on line 32
+[06-May-2019 22:46:47 Asia/Tehran] PHP Notice:  Undefined variable: darsID in /home/misanqpu/public_html/school/rest/Model/Teacher.php on line 32
+[06-May-2019 22:47:05 Asia/Tehran] PHP Notice:  Undefined index: name in /home/misanqpu/public_html/school/rest/Model/Teacher.php on line 34
+[07-May-2019 01:33:02 Asia/Tehran] PHP Fatal error:  Class 'Rest\Model\Teacher' not found in /home/misanqpu/public_html/school/rest/Core/Parents.php on line 906
+[07-May-2019 01:33:12 Asia/Tehran] PHP Fatal error:  Class 'Rest\Model\Teacher' not found in /home/misanqpu/public_html/school/rest/Core/Parents.php on line 906
+[07-May-2019 01:33:21 Asia/Tehran] PHP Fatal error:  Class 'Rest\Model\Teacher' not found in /home/misanqpu/public_html/school/rest/Core/Parents.php on line 906
+[07-May-2019 01:38:04 Asia/Tehran] PHP Fatal error:  Class 'Rest\Model\Teacher' not found in /home/misanqpu/public_html/school/rest/Core/Parents.php on line 906
+[07-May-2019 01:38:16 Asia/Tehran] PHP Fatal error:  Class 'Rest\Model\Teacher' not found in /home/misanqpu/public_html/school/rest/Core/Parents.php on line 906
+[07-May-2019 01:40:49 Asia/Tehran] PHP Fatal error:  Class 'Rest\Model\Teacher' not found in /home/misanqpu/public_html/school/rest/Core/Student.php on line 1006
+[07-May-2019 01:41:04 Asia/Tehran] PHP Fatal error:  Class 'Rest\Model\Teacher' not found in /home/misanqpu/public_html/school/rest/Core/Student.php on line 1006
+[07-May-2019 01:41:05 Asia/Tehran] PHP Fatal error:  Class 'Rest\Model\Teacher' not found in /home/misanqpu/public_html/school/rest/Core/Student.php on line 1006
+[09-May-2019 02:22:07 Asia/Tehran] PHP Fatal error:  Class 'Rest\Model\Teacher' not found in /home/misanqpu/public_html/school/rest/Core/Parents.php on line 906
+[09-May-2019 02:33:55 Asia/Tehran] PHP Fatal error:  Class 'Rest\Model\Teacher' not found in /home/misanqpu/public_html/school/rest/Core/Parents.php on line 906
+[09-May-2019 02:33:58 Asia/Tehran] PHP Fatal error:  Class 'Rest\Model\Teacher' not found in /home/misanqpu/public_html/school/rest/Core/Parents.php on line 906
+[09-May-2019 02:36:22 Asia/Tehran] PHP Fatal error:  Class 'Rest\Model\Teacher' not found in /home/misanqpu/public_html/school/rest/Core/Parents.php on line 906
+[09-May-2019 02:36:25 Asia/Tehran] PHP Fatal error:  Class 'Rest\Model\Teacher' not found in /home/misanqpu/public_html/school/rest/Core/Parents.php on line 906
+[10-May-2019 17:07:06 Asia/Tehran] PHP Fatal error:  Class 'Rest\Model\Teacher' not found in /home/misanqpu/public_html/school/rest/Core/Parents.php on line 906
+[10-May-2019 17:07:25 Asia/Tehran] PHP Fatal error:  Class 'Rest\Model\Teacher' not found in /home/misanqpu/public_html/school/rest/Core/Parents.php on line 906
+[13-Jun-2019 10:21:07 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'misanqpu_user'@'localhost' (using password: YES)' in /home/misanqpu/public_html/school/rest/MyPDO.php:18
+Stack trace:
+#0 /home/misanqpu/public_html/school/rest/MyPDO.php(18): PDO->__construct('mysql:host=loca...', 'misanqpu_user', 'schoolA!')
+#1 /home/misanqpu/public_html/school/rest/MyPDO.php(43): Rest\MyPDO->__construct('mysql:host=loca...', 'misanqpu_user', 'schoolA!')
+#2 /home/misanqpu/public_html/school/rest/Core/Errors.php(41): Rest\MyPDO::getInstance()
+#3 /home/misanqpu/public_html/school/rest/Core/Errors.php(25): Rest\Core\Errors->registerError('Route Not Found', 'NO_VALID_ROUTE', '[{"file":"\\/hom...', '{"PHPSESSID":"d...', '', '{"Host":"misaqg...', 'null', -1)
+#4 /home/misanqpu/public_html/school/rest/index.php(75): Rest\Core\Errors->__construct('Route Not Found', 'NO_VALID_ROUTE', 'LOGOUT')
+#5 {main}
+  thrown in /home/misanqpu/public_html/school/rest/MyPDO.php on line 18

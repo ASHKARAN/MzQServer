@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteCond %{SCRIPT_FILENAME} !-d
+RewriteCond %{SCRIPT_FILENAME} !-f
+RewriteRule ^([a-z0-9\-]+)/?([a-z0-9\-]+)?/?([a-z0-9\-]+)?/?$ index.php?VERSION=$1&ROUTE=$2&ACTION=$3 [NC,L]

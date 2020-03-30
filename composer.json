@@ -1,0 +1,11 @@
+{
+  "name": "MzQ",
+  "type": "project",
+  "require": {
+    "php": ">=5.5",
+    "kavenegar/php": "*",
+    "shuchkin/simplexlsx": "0.8.13",
+    "morilog/jalali": "3.*"
+  }
+
+}
